@@ -25,6 +25,6 @@ gcc is installed.
 
 ## Licence
 
-[MIT](https://github.com/AtsushiSakai/tool/TwoStepCppExe/LICENCE)
+[MIT](https://github.com/AtsushiSakai/TwoStepCppExe/blob/master/LICENSE)
 
 
