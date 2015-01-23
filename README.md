@@ -5,7 +5,7 @@ This is imspired by the post:
 
 Learn to Say "Hello, World" - Programmer 97-things http://programmer.97things.oreilly.com/wiki/index.php/Learn_to_say_Hello_World
 
-# How to use
+# Usage
 
 just two steps:
 
@@ -18,4 +18,13 @@ just two steps:
     ./hoge/test.sh
 
   you can see "Hello world" on your shell
+
+## Requirement
+
+gcc is installed.
+
+## Licence
+
+[MIT](https://github.com/AtsushiSakai/tool/TwoStepCppExe/LICENCE)
+
 
